@@ -49,5 +49,4 @@ uint8_t bin_eval_parity(uint32_t word_i, size_t size_i, uint8_t type_i, uint8_t 
 /// @return Processed word with parity bit
 uint32_t bin_set_parity(uint32_t word_i, size_t size_i, uint8_t type_i, uint8_t pos_i);
 
-
 #endif /* _BINARY_H_ */
